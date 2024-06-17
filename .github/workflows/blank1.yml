@@ -34,7 +34,7 @@ jobs:
         with:
           registry: registry.cn-hangzhou.aliyuncs.com
           username: 大头zc
-          password: 320294qaz,,
+          password: 320924qaz,,
           logout: false
 
       # Runs a set of commands using the runners shell
